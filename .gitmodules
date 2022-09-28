@@ -1,0 +1,18 @@
+[submodule "meta-matryoshka"]
+	path = meta-matryoshka
+	url = https://github.com/richarah/meta-matryoshka
+[submodule "poky"]
+	path = poky
+	url = https://github.com/yoctoproject/poky.git
+	branch = dunfell
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+	branch = dunfell
+[submodule "meta-docker"]
+	path = meta-docker
+	url = https://github.com/L4B-Software/meta-docker.git
+[submodule "meta-virtualization"]
+	path = meta-virtualization
+	url = https://github.com/lgirdk/meta-virtualization.git
+	branch = dunfell
